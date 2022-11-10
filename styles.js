@@ -17,6 +17,15 @@ const styles = StyleSheet.create({
     aspectRatio: 1,
     flex: 1
   },
+  cardHeader: {
+    margin: 4,
+    flexDirection: 'row',
+  },
+  userName: {
+    margin: 8,
+    fontSize: 18,
+    fontWeight: '600',
+  },
 });
 
 export default styles;
