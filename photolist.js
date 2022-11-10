@@ -18,8 +18,8 @@ const photoList = [
   {
     id: 3,
     photoURL: 'https://images.unsplash.com/photo-1667493534914-072f3b967f5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY2ODA5MTU2MQ&ixlib=rb-4.0.3&q=80&w=1080',
-    description: 'Birds eye view shot of a boat traversing through tropical blue water',
-    userName: 'OceanLover',
+    description: 'Birds eye view shot of a boat traversing through deep blue water',
+    userName: 'LifesABeach',
     profilePhoto:'https://randomuser.me/api/portraits/women/3.jpg',
   },
   {
@@ -39,8 +39,8 @@ const photoList = [
   {
     id: 6,
     photoURL: 'https://images.unsplash.com/photo-1665501106729-70513bfb7233?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY2ODA5MTg4Mg&ixlib=rb-1.2.1&q=80&w=1080',
-    description: 'Birds eye view shot of a surfer on a yellow board, surrounded by vast deep blue water ',
-    userName: 'OceanLover',
+    description: 'Birds eye view shot of a surfer on a yellow board, surrounded by vast tropical water ',
+    userName: 'LifesABeach',
     profilePhoto:'https://randomuser.me/api/portraits/women/3.jpg',
   },
 ];
